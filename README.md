@@ -63,7 +63,7 @@ python3 main.py --host 0.0.0.0 --port 9999
 echo "Hello UDP" | nc -u <SERVER_IP> <PORT>
 ```
 
-مثال:
+نمونه:
 
 ```bash
 echo "Hello UDP" | nc -u 141.11.246.33 8888
